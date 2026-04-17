@@ -1,0 +1,9 @@
+{
+  "id": "mermaid-plugin",
+  "name": "Mermaid Diagrams",
+  "version": "0.1.0",
+  "description": "Side-by-side editor and live preview for Mermaid diagram files (.mmd, .mermaid).",
+  "entry": "index.js",
+  "quipuVersion": ">=0.14.0",
+  "fileTypes": [".mmd", ".mermaid"]
+}
